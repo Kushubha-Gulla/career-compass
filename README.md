@@ -1,2 +1,2 @@
 # career-compass
-A React-based Career Guidance and Skill Analyzer mini project for students.
+A React-based Career Guidance and Skill Analyzer mini project.
